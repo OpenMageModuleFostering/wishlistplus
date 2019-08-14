@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/WishlistPlus",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License",
+    "homepage": "",
+    "description": "WishlistPlus adds the features of Pagination, search and selective add to cart to your wishlst module.",
+    "authors": [
+    {
+        "name": "Arvind",
+        "email": "bhardwajsonheight@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

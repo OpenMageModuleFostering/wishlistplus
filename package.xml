@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>WishlistPlus</name>
+    <version>0.1.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">GNU General Public License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>WishlistPlus adds the features of Pagination, search and selective add to cart to your wishlst module.</summary>
+    <description>Customwishlist is the extension that extends default Magento wishlist feature. Here is the list of features that are provided by Customwishlist extension:&#xD;
+&lt;br&gt;&lt;br&gt;&#xD;
+1. Pagination&lt;br&gt;&#xD;
+2. Wishlist Search&#xD;
+3. Selective Add to Cart</description>
+    <notes>Support for Magento 1.5, 1.6, 1.7, 1.8 added</notes>
+    <authors><author><name>Arvind</name><user>arvind07</user><email>bhardwajsonheight@gmail.com</email></author></authors>
+    <date>2014-05-20</date>
+    <time>13:46:10</time>
+    <contents><target name="magelocal"><dir name="Customwishlist"><dir name="Customwishlist"><dir name="controllers"><file name="IndexController.php" hash="572a78536935cf7e8f207657a8fdd5fb"/></dir><dir name="etc"><file name="config.xml" hash="477de2a5f34a3cc9c0cdc361d6041cea"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="template"><dir name="wishlist"><file name="view.phtml" hash="08ef7235e6ba3b43cfcf55b63d97d0bf"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Customwishlist_Customwishlist.xml" hash="76f03ae1f3d1904758bd80b113dfe207"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
