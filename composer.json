@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/WishlistPlus",
+    "name": "openmage-module-fostering\/wishlistplus",
     "type": "magento-module",
-    "license": "GNU-General-Public-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "WishlistPlus adds the features of Pagination, search and selective add to cart to your wishlst module.",
     "authors": [
